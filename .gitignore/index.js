@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-const TOKEN = "NDI3MTU0NzMzMDE5NDMwOTE0.De2o8Q.A4lzVnamQGcm-B01gsbWkPCuGX0";
+const TOKEN = "NDUzNjIxNDUwNzc1OTg2MTc2.DfhjeQ.T_F3AELdZiLkaCNsiB67rA6QuiI";
 const ownerID = "174565176492687361"
 const PREFIX = "-";
 
